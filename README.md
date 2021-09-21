@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CP-Chaitanya
+- 👋 Hi, I’m Chaitanya Patil
 - 👀 I’m interested in Java,Database,DSA
 - 🌱 I’m currently learning Advance Java,Oracle
 - 💞️ I’m looking to collaborate on (https://github.com/CP-Chaitanya/CP-Chaitanya)
